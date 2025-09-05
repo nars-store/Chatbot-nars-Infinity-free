@@ -1,0 +1,6 @@
+{
+  "ngoding html dasar": "<!DOCTYPE html>\n<html>\n<head>\n  <title>Halaman Pertama</title>\n</head>\n<body>\n  <h1>Hello World!</h1>\n  <p>Ini paragraf pertama.</p>\n</body>\n</html>",
+  "ngoding html tombol": "<button>Klik Aku!</button>",
+  "ngoding css dasar": "body { background-color: #f4f4f4; font-family: Arial; }\nh1 { color: #333; }",
+  "ngoding css tombol": "button { background-color: blue; color: white; padding: 10px 20px; border-radius: 5px; }"
+}
